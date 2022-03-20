@@ -5,4 +5,5 @@ NULL
 runSRC.cmd
 buildSRC.cmd
 coreSRC.cmd
+newIndexSRC.cmd
 console.cmd
