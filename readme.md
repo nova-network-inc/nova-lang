@@ -2,7 +2,7 @@
 We have created Novalang to facilitate the development of Windows desktop-oriented applications for Nova Network. This is still under heavy development, and you might face bugs and glitches while using it.
 
 # Usage
-1) Clone the git directory using ```git clone``` https://github.com/nova-network-inc/nova-lang.git.  
+1) Clone the git directory using ```git clone https://github.com/nova-network-inc/nova-lang.git```.
 2) Access your new app directory using ```cd nova-lang```.  
 3) Create a new index file for your application using the command ```.\newIndex```.  
 4) Once your new index file is created, you can use your preferred IDE to code it.  
