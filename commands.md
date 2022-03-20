@@ -51,6 +51,7 @@ All commands must be placed between ```%``` in your code. Eg. ```importFrom``` s
 ```displayEcho``` Displays the console echo.  
 
 <b>Misc</b>
+  
 ```//``` Comments the specific line.  
 ```setTimer1``` Awaits 1 second to execute the next command/line.  
 ```setTimer2``` Awaits 2 second to execute the next command/line.  
