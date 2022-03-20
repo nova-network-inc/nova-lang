@@ -1,7 +1,7 @@
 # List of Available Commands
 All commands must be placed between ```%``` in your code. Eg. ```importFrom``` should be written ```%importFrom%``` in your file.
 
-Basic Functions
+<b>Basic Functions</b>
 
 ```importFrom``` Imports a dependency or file.  
 ```li``` Line element. Used to render a message on the terminal.  
@@ -19,3 +19,33 @@ Basic Functions
 ```shutdown``` Turn off user's computer.  
 ```processList``` Lists all processes running on user's computer.  
 ```processKill``` Kills a specific task.  
+
+<b>File and Folder Operations</b>
+
+```exportTo``` Exports the line creating a new file.  
+```readFrom``` Reads a file and imports it into the application.  
+```writeTo``` Writes into a file.  
+```exec``` Executes an application or opens a file.  
+```execAs``` Executes an application or opens a file as a different user.  
+```del``` Deletes a file.  
+```rm``` Deletes a folder.  
+```copy``` Copies a file.  
+```nav``` Navigates to a specific directory.  
+```mkDir``` Creates a new folder.  
+```mv``` Moves a file or folder.  
+```dirMap``` Maps the files and folder within the current directory.  
+```ren``` Renames a file or a folder.  
+```chmod``` Changes the file mode.  
+```fileCompress``` Used to compress files and folders.  
+```fileExpand``` Expands a compressed file.  
+```fileExist``` Returns TRUE or FALSE if a specific file exists.
+
+<b>Console and Screen</b>
+
+```suppressRender``` Suppresses the rendering or a specific line.  
+```clearNull``` Clear the NULL file cache.  
+```clearScreen``` Clears the screen.  
+```colorScheme``` Sets the console color scheme.  
+```winTitle``` Sets the window title.  
+```suppressEcho``` Suppresses the console echo.  
+```displayEcho``` Displays the console echo.  
