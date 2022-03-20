@@ -49,3 +49,19 @@ All commands must be placed between ```%``` in your code. Eg. ```importFrom``` s
 ```winTitle``` Sets the window title.  
 ```suppressEcho``` Suppresses the console echo.  
 ```displayEcho``` Displays the console echo.  
+
+<b>Misc</b>
+```//``` Comments the specific line.  
+```setTimer1``` Awaits 1 second to execute the next command/line.  
+```setTimer2``` Awaits 2 second to execute the next command/line.  
+```setTimer3``` Awaits 3 second to execute the next command/line.  
+```setTimer4``` Awaits 4 second to execute the next command/line.  
+```setTimer5``` Awaits 5 second to execute the next command/line.  
+```setTimer10``` Awaits 10 second to execute the next command/line.  
+```date``` Displays the current date/time.  
+```setDate``` Changes the current date/time.  
+```br``` Line break.  
+```line40``` Line break with 40 dash elements.  
+```line80``` Line break with 80 dash elements.  
+```close``` Exits the application.  
+```winVer``` Displays the Windows version.  

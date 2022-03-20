@@ -41,7 +41,7 @@ SET "clearNull=DEL NULL"
 SET "clearScreen=CLS"
 SET "colorScheme=COLOR"
 SET "winTitle=TITLE"
-SET "supressEcho=@Echo Off & CLS"
+SET "suppressEcho=@Echo Off & CLS"
 SET "displayEcho=@Echo On"
 
 :: Misc

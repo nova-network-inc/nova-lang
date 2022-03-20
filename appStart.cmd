@@ -1,6 +1,6 @@
 COPY core.exe core.cmd
 CALL core.cmd
-%supressEcho%
+%suppressEcho%
 %clearScreen%
 %li% %str0001%
 %setTimer2%
