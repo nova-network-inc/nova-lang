@@ -65,7 +65,7 @@ SET "gethAttachNode=geth attach \\.\pipe\geth.ipc"
 SET "gethAttach=geth attach"
 
 :: Strings
-SET "str0001=Starting Novalang application..."
+SET "str0001=[ Novalang Application ]"
 SET "str0002=Build Application"
 SET "str0003=The file doesn't seem to exist. Please try again."
 SET "str0004=Index File Path:"
